@@ -81,8 +81,8 @@ Free-Form Image Captureを設定するには、次の手順でDataWedgeプロフ
 1. DataWedgeDemo
 2. サンプルアプリ
 
-<img width="300" src="./image.png">
-
+<img width="250" src="./image.png">
+<img width="250" src="./image-1.png">
 参考情報
 
 - Zebra Developers Blog: DataWedge Free-Form Image Capture
