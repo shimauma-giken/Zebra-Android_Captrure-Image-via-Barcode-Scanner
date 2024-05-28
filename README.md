@@ -37,10 +37,10 @@ Free-Form Image Captureには下記制限があります。
 
 本機能の活用で下記の運用改善が見込めます。
 
-1. カメラ非内蔵のZebra Androidでも現場写真の撮影が可能
-2. スキャン＋写真撮影が必要な運用アクションの時短
+1. カメラ非内蔵のZebra Androidでも現場写真の撮影が可能です。
+2. スキャン＋写真撮影が必要な運用アクションの時短となります。
 
-DataWedge(Free-Form Image Capture)はAPIが用意されているため、
+DataWedge(Free-Form Image Capture)はAPIが用意されているため、ご利用のアプリケーションへの実装は比較的容易です。
 
 
 <br><br>
@@ -80,6 +80,8 @@ Free-Form Image Captureを設定するには、次の手順でDataWedgeプロフ
 
 1. DataWedgeDemo
 2. サンプルアプリ
+
+<img width="300" src="./image.png">
 
 参考情報
 
